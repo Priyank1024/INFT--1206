@@ -1,1 +1,1 @@
-[HTML Intro](/CLASS_NOTES/HTML_intro)
+[HTML Intro](/CLASS_NOTES/HTML_intro/)

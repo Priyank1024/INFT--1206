@@ -7,3 +7,7 @@
 [assignment_3part2](CLASS_ASSIGNMENT/ASSIGNMENT_3/part_2/index.html)
 [assignment_3part3](CLASS_ASSIGNMENT/ASSIGNMENT_3/part_3/index.html)
 [assignment_3part4](CLASS_ASSIGNMENT/ASSIGNMENT_3/part_4/index.html)
+[assignment_4part1](CLASS_ASSIGNMENT/ASSIGNMENT_4/part_1/index.HTML)
+[assignment_4part2](CLASS_ASSIGNMENT/ASSIGNMENT_4/part_2/index.html)
+[assignment_4part3](CLASS_ASSIGNMENT/ASSIGNMENT_4/part_3/index.html)
+[assignment_4part4](CLASS_ASSIGNMENT/ASSIGNMENT_4/part_4/index.html)
